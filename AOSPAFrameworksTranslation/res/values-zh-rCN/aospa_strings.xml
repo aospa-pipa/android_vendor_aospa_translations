@@ -16,4 +16,5 @@
 -->
 <resources>
     <string name="volume_dialog_ringer_guidance_normal">有来电和通知时会响铃</string>
+    <string name="gesture_locked_warning">再次滑动以解锁手势</string>
 </resources>
