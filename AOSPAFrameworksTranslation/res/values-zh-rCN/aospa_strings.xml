@@ -23,4 +23,13 @@
     <string name="charging_control_notification_content_limit_reached">电池已充电至 %1$d%%</string>
     <string name="charging_control_notification_content_target">电池将在 %1$s 完全充满</string>
     <string name="charging_control_notification_content_target_reached">电池已充满</string>
+    <string name="charging_speed">充电速度</string>
+    <string name="charging_speed_slow">慢速</string>
+    <string name="charging_speed_fast">快速</string>
+    <string name="charging_speed_super_fast">极速</string>
+    <string name="pocket_mode_title">口袋模式已开启</string>
+    <string name="pocket_mode_illustration_description">口袋中手机的插图</string>
+    <string name="pocket_mode_instructions_header">使用手机：</string>
+    <string name="pocket_mode_instruction_step1">1. 请确保上方显示的绿色区域（距离传感器）未被遮挡且没有灰尘。</string>
+    <string name="pocket_mode_instruction_step2">2. 按住电源键退出口袋模式。</string>
 </resources>
