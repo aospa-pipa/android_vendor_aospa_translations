@@ -191,8 +191,8 @@
     <string name="wifi_tether_connected_devices_empty">没有连接的设备</string>
     <string name="wifi_tether_connected_device_unknown_name">未知设备</string>
     <string name="app_volume">应用音量</string>
-    <string name="app_volume_title">单个应用音量控制</string>
-    <string name="app_volume_summary">在音量面板中显示单个应用音量按钮</string>
+    <string name="app_volume_title">分应用音量控制</string>
+    <string name="app_volume_summary">在音量面板中显示每个应用的音量按钮</string>
     <string name="face_enrolling_close_to_continue">设置期间请折叠手机</string>
     <string name="face_enrolling_close_to_continue_description">必须折叠手机才能设置或使用人脸解锁</string>
     <string name="face_enrolling_do_it_later">稍后再说</string>

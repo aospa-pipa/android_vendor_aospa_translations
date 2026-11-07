@@ -59,4 +59,6 @@
     </string-array>
     <string name="face_unlock_recognizing">正在识别人脸…</string>
     <string name="home_controls_tile_title">家居</string>
+    <string name="app_volume">应用音量</string>
+    <string name="app_volume_no_active_apps">没有正在播放音频的应用</string>
 </resources>
