@@ -17,4 +17,9 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="icon_pack_title">系统图标包</string>
     <string name="font_title">系统字体</string>
+    <string name="clock_style_title">时钟样式</string>
+    <string name="global_icon_shape_title">全局应用图标形状</string>
+    <string name="global_icon_shape_description">在应用启动界面和系统自适应图标中使用此形状</string>
+    <string name="global_icon_shape_apply_failed">无法全局应用图标形状，已保留当前设置。</string>
+    <string name="global_icon_shape_restart_required">重启启动器或设备后，全局图标形状才会生效。</string>
 </resources>
